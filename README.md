@@ -4,6 +4,8 @@
 
 I build production-ready applications with modern tech stacks, focusing on clean code, comprehensive documentation, and real-world problem solving.
 
+📧 **Contact:** [LinkedIn](https://www.linkedin.com/in/louis-sader-a6a391287/) | [GitHub](https://github.com/louissader) | [Resume](https://github.com/louissader/louissader/blob/main/RESUME.md)
+
 ---
 
 ## 🚀 Featured Projects
@@ -11,25 +13,25 @@ I build production-ready applications with modern tech stacks, focusing on clean
 ### [HomeLab Infrastructure Monitor](https://github.com/louissader/homelab-infrastructure-monitor)
 Real-time system monitoring dashboard with FastAPI backend, Python collection agent, and Docker deployment.
 - **Tech:** Python, FastAPI, PostgreSQL, Docker, SQLAlchemy, REST APIs
-- **Highlights:** 15+ API endpoints, async/await, optimized database schema, comprehensive docs
+- **Highlights:** 15 authenticated endpoints, <200ms response time, 60% smaller Docker images
 - **Skills:** Backend Development, DevOps, System Design, Database Optimization
 
 ### [Strava Race Time Predictor](https://github.com/louissader/strava-race-predictor)
 ML-powered race prediction app using scikit-learn and Strava API data.
 - **Tech:** Python, scikit-learn, React, Flask, pandas, numpy
-- **Highlights:** <5% prediction error, interactive GPS heatmaps, 1000+ training runs processed
+- **Highlights:** <5% prediction error, interactive GPS heatmaps, 1,000+ training runs processed
 - **Skills:** Machine Learning, Full-Stack Development, Data Processing, API Integration
 
 ### [Product Management System](https://github.com/louissader/Lightning-New-York-Project)
 Interview project showcasing dual Flask + FastAPI implementations with comprehensive testing.
 - **Tech:** Flask, FastAPI, PostgreSQL, Docker, pytest
-- **Highlights:** REST API, authentication, 85%+ test coverage, exceeded requirements
+- **Highlights:** REST API with authentication, 85% test coverage, exceeded requirements
 - **Skills:** Web Frameworks, Testing, Security, Docker Deployment
 
 ### [Elite Detailing Website](https://github.com/louissader/elite-detailing-website)
 Luxury detailing business site with booking system and Supabase backend.
 - **Tech:** React, Vite, Tailwind CSS, Supabase
-- **Highlights:** Online booking, pricing calculator, email confirmations, production-deployed
+- **Highlights:** 3-step booking system, real-time pricing calculator, 99.9% uptime
 - **Skills:** Frontend Development, UI/UX, Database Integration
 
 ---
@@ -97,9 +99,9 @@ Luxury detailing business site with booking system and Supabase backend.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louissader)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-sader-a6a391287/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/louissader)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/louissader/louissader/blob/main/RESUME.md)
 
 ---
 
@@ -111,7 +113,7 @@ I'm currently seeking software development roles where I can contribute to meani
 - **DevOps:** Docker, CI/CD, infrastructure automation
 - **Data/ML:** scikit-learn, pandas, data processing pipelines
 
-**Location:** Open to remote or hybrid opportunities
+**Location:** Open to remote or hybrid opportunities  
 **Experience Level:** Mid-level developer with production-ready portfolio
 
 ---
