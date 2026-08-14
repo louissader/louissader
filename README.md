@@ -1,10 +1,12 @@
 # Hi there, I'm Louis Sader 👋
 
-**Software Developer** | **Python Specialist** | **Full-Stack Engineer**
+**DevOps Software Developer** | **AWS Certified** | **Full-Stack Engineer**
 
 I build production-ready applications with modern tech stacks, focusing on clean code, comprehensive documentation, and real-world problem solving.
 
-📧 **Contact:** [LinkedIn](https://www.linkedin.com/in/louis-sader-a6a391287/) | [GitHub](https://github.com/louissader) | [Resume](https://github.com/louissader/louissader/blob/main/RESUME.md)
+🌐 **Portfolio: [louissader.com](https://louissader.com)**
+
+📧 **Contact:** [LinkedIn](https://www.linkedin.com/in/louis-sader/) | [GitHub](https://github.com/louissader) | [Resume](https://github.com/louissader/louissader/blob/main/RESUME.md)
 
 ---
 
